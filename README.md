@@ -19,7 +19,7 @@ React, Redux Toolkit, React-Router를 기반으로 구현한 프리미엄 골프
 - **Framework / Library:** React, Redux Toolkit, React Router DOM
 - **Styling:** CSS3 (순수 CSS), Swiper
 - **Data:** Local JSON (Mock Data 비동기 호출)
-- **Tool:** VS Code, Figma, Photoshop
+- **Tool:** VS Code, Figma
 
 ## 🖥 기능 구현 PPT
 <br>
